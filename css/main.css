@@ -106,7 +106,7 @@ textarea {
 
    @font-face{
     font-family: ese;
-    src: url(/Silence.ttf) format("truetype");
+    src: url(Silence.ttf) format("truetype");
 }
 .silence{
     font-family: ese  !important;
@@ -122,13 +122,13 @@ textarea {
 
 @media only screen and (max-width:768px){
     .hero{
-        background-image: url(/img/maderita5.png)  ;
+        background-image: url(img/maderita5.png)  ;
         background-size: cover;
     }
 }
 @media only screen and (min-width:769px){
 .hero{
-    background-image: url(/img/maderita6.png)  ;
+    background-image: url(img/maderita6.png)  ;
     background-size: cover;
     height: 500px;
 }
