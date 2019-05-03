@@ -106,7 +106,7 @@ textarea {
 
    @font-face{
     font-family: ese;
-    src: url(Silence.ttf) format("truetype");
+    src: url(https://github.com/OrionHand/PickyShop/blob/master/Silence.ttf) format("truetype");
 }
 .silence{
     font-family: ese  !important;
